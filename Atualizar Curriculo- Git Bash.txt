@@ -1,4 +1,8 @@
+C:\Users\rlslo\OneDrive\Área de Trabalho\Trabalho\Currículo\RodrigoSL06.github.io
+
 git status
 git add .
 git commit -m "Update"
 git push
+
+cd .. --> voltar a trás
